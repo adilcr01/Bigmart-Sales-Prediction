@@ -42,3 +42,10 @@ STEPS INVOLVED IN MODEL BUILDING :
 
 (x)Deployment
 
+### Home Page
+![image](https://user-images.githubusercontent.com/93968656/199655907-69147482-460e-4af4-9649-3f4d3d6ff237.png)
+
+
+### Result Page
+
+![image](https://user-images.githubusercontent.com/93968656/199655920-eeb33ab1-3bbc-4319-82cf-eba7c514e38f.png)
