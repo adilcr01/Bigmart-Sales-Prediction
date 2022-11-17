@@ -3,7 +3,7 @@
 OBJECTIVE : 
 
 
-Primary aim of this project is to build machine learning model that give the should able to predict the sales of the different stores of Big Mart according to the provided dataset.
+Primary aim of this project is to build machine learning application that give the should be able to predict the sales of the different stores of Big Mart according to the provided dataset.
 
 [You can reach the application here] 
 ### LINK TO WB APP
